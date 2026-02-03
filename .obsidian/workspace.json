@@ -118,7 +118,8 @@
               "title": "问题 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 467.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "003381354c90d9c1",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
     "新建 文本文档.txt",
     "Pasted image 20260203164257.png",
