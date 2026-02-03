@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "d47123e8777d3625",
+    "type": "split",
+    "children": [
+      {
+        "id": "5225a4a4c180cb07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28436e908d0fc671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAS/阵列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阵列"
+            }
+          },
+          {
+            "id": "c428e48eb0e61633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAS/TOS安装与硬盘分区.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOS安装与硬盘分区"
+            }
+          },
+          {
+            "id": "003381354c90d9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q/问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0aac612080ac4e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b5a6e3a37f3229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b167469f082f891",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "357d6f6266c07ccc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "934687039baacc88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "655e739a56cb2d9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Q/问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "问题 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "c155ece605099fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b06dcf1746d2bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627d784520b444be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q/问题.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "问题 的反向链接列表"
+            }
+          },
+          {
+            "id": "ef31d4d3f47ca6cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ea966343f2cc814b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0d51fe7d35bdea96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "964b13b0555ee4bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "003381354c90d9c1",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "Pasted image 20260203164257.png",
+    "Pasted image 20260203163750.png",
+    "Pasted image 20260203163702.png",
+    "Pasted image 20260203163528.png",
+    "Pasted image 20260203162809.png",
+    "Pasted image 20260203162750.png",
+    "Pasted image 20260203151806.png",
+    "{C71306FB-EAE1-4ECF-970E-5044CAAB57B0} 1.png",
+    "{C71306FB-EAE1-4ECF-970E-5044CAAB57B0}.png",
+    "NAS/阵列.md",
+    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
+    "NAS/RAID/TRAID & TRAID+.md",
+    "NAS/RAID/RAID.md",
+    "NAS/TOS安装与硬盘分区.md",
+    "Pasted image 20260203141449.png",
+    "NAS/重装TOS系统.md",
+    "NAS/卷/SSD TRIM.md",
+    "Q/问题.md",
+    "NAS/阵列修复——流程图.md",
+    "NAS/阵列在线扩容——流程图.md",
+    "NAS/RAID/RAID 模式——long.md",
+    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
+    "NAS/磁盘/新增系统盘.md",
+    "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
+    "欢迎.md",
+    "NAS/磁盘/迁出系统盘.md",
+    "NAS/热备盘/热备盘.md",
+    "NAS/卷",
+    "NAS/Hyper Cache/Hyper Cache.md",
+    "Q",
+    "NAS/磁盘",
+    "NAS/Hyper Cache",
+    "NAS/热备盘",
+    "NAS/RAID",
+    "NAS"
+  ]
+}
