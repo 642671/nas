@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/f4 ssd/重装TOS系统.md",
+                "file": "NAS/f4 ssd/1.连接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重装TOS系统"
+              "title": "1.连接"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q/问题.md",
+                "file": "NAS/f4 ssd/重装TOS系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "问题"
+              "title": "重装TOS系统"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,8 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "003381354c90d9c1",
+  "active": "6d220a0138a2a1f4",
   "lastOpenFiles": [
+    "Pasted image 20260204100223.png",
+    "Pasted image 20260204100219.png",
+    "Pasted image 20260204100203.png",
+    "NAS/f4 ssd/1.连接.md",
+    "NAS/f4 ssd/重装TOS系统.md",
+    "Q/问题.md",
+    "NAS/TOS安装与硬盘分区.md",
     "Pasted image 20260203195522.png",
     "Pasted image 20260203195427.png",
     "Pasted image 20260203195216.png",
@@ -247,22 +254,15 @@
     "Pasted image 20260203193944.png",
     "Pasted image 20260203193221.png",
     "Pasted image 20260203193204.png",
-    "Pasted image 20260203193151.png",
-    "NAS/TOS安装与硬盘分区.md",
     "NAS/阵列修复——流程图.md",
     "NAS/阵列在线扩容——流程图.md",
-    "NAS/f4 ssd/1.连接.md",
     "2026-02-03.md",
     "NAS/f4 ssd",
-    "Q/问题.md",
     "新建 文本文档.txt",
-    "Pasted image 20260203164257.png",
-    "Pasted image 20260203163750.png",
     "NAS/阵列.md",
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/RAID/TRAID & TRAID+.md",
     "NAS/RAID/RAID.md",
-    "NAS/f4 ssd/重装TOS系统.md",
     "NAS/卷/SSD TRIM.md",
     "NAS/RAID/RAID 模式——long.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",

@@ -34,8 +34,8 @@ https://tnas.online/642671
 （安装完成并自动重启后，如果界面出现“创建存储池”或“格式化”字眼，请不要继续并与我们联系）
 ```
 
+![[Pasted image 20260204100203.png]]![[Pasted image 20260204100223.png]]
 
-![[Pasted image 20260203193204.png]]
 ![[Pasted image 20260203193221.png]]
 ![[Pasted image 20260203193151.png]]
 用户名：qishiyi
