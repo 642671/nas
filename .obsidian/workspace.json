@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "重装TOS系统"
             }
+          },
+          {
+            "id": "5a852a55b370a4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q/问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,16 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/f4 ssd/重装TOS系统.md",
+                "file": "Q/问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "重装TOS系统 的大纲"
+              "title": "问题 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,8 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d220a0138a2a1f4",
+  "active": "5a852a55b370a4a4",
   "lastOpenFiles": [
+    "Pasted image 20260204103217.png",
+    "欢迎.md",
+    "NAS/f4 ssd/重装TOS系统.md",
     "Pasted image 20260204102157.png",
     "Pasted image 20260204101744.png",
     "Pasted image 20260204101307.png",
@@ -246,14 +264,12 @@
     "Pasted image 20260204100219.png",
     "Pasted image 20260204100203.png",
     "NAS/f4 ssd/1.连接.md",
-    "NAS/f4 ssd/重装TOS系统.md",
     "Q/问题.md",
     "NAS/TOS安装与硬盘分区.md",
     "Pasted image 20260203195522.png",
     "Pasted image 20260203195427.png",
     "Pasted image 20260203195216.png",
     "Pasted image 20260203195151.png",
-    "Pasted image 20260203194351.png",
     "NAS/阵列修复——流程图.md",
     "NAS/阵列在线扩容——流程图.md",
     "2026-02-03.md",
@@ -268,7 +284,6 @@
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/新增系统盘.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
-    "欢迎.md",
     "NAS/磁盘/迁出系统盘.md",
     "NAS/热备盘/热备盘.md",
     "NAS/卷",
