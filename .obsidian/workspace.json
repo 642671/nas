@@ -49,8 +49,7 @@
               "title": "问题"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q/问题.md",
+                "file": "NAS/指令学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "问题 的大纲"
+              "title": "指令学习 的大纲"
             }
           }
         ],
@@ -224,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "655e739a56cb2d9e",
+  "active": "28436e908d0fc671",
   "lastOpenFiles": [
+    "Q/问题.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
     "NAS/磁盘/迁出系统盘.md",
@@ -241,7 +241,6 @@
     "NAS/f4 ssd/1.连接.md",
     "NAS/热备盘/热备盘.md",
     "NAS/卷/SSD TRIM.md",
-    "Q/问题.md",
     "2026-02-04.md",
     "Pasted image 20260204104311.png",
     "NAS/阵列.md",
