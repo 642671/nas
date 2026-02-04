@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/指令学习.md",
+                "file": "NAS/提醒/提示易忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指令学习"
+              "title": "提示易忘"
             }
           },
           {
@@ -48,8 +48,19 @@
               "icon": "lucide-file",
               "title": "问题"
             }
+          },
+          {
+            "id": "bc9b09cbdfb3a1d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,17 +119,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/指令学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "指令学习 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,14 +232,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28436e908d0fc671",
+  "active": "bc9b09cbdfb3a1d6",
   "lastOpenFiles": [
+    "NAS/提醒/提示易忘.md",
+    "NAS/指令学习.md",
+    "NAS/提醒",
     "Q/问题.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
     "NAS/磁盘/迁出系统盘.md",
     "NAS/磁盘/新增系统盘.md",
-    "NAS/指令学习.md",
     "NAS/USB设备.md",
     "NAS/f4 ssd/TOS安装与硬盘分区.md",
     "NAS/阵列修复——流程图.md",
