@@ -48,19 +48,9 @@
               "icon": "lucide-file",
               "title": "问题"
             }
-          },
-          {
-            "id": "bc9b09cbdfb3a1d6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Q/问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "问题 的大纲"
             }
           }
         ]
@@ -232,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc9b09cbdfb3a1d6",
+  "active": "c7512645a98d283a",
   "lastOpenFiles": [
-    "NAS/提醒/提示易忘.md",
+    "Pasted image 20260204135431.png",
     "NAS/指令学习.md",
+    "NAS/提醒/提示易忘.md",
     "NAS/提醒",
     "Q/问题.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
