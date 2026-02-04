@@ -38,8 +38,7 @@ https://tnas.online/642671
 
 ![[Pasted image 20260203193221.png]]
 ![[Pasted image 20260203193151.png]]
-用户名：qishiyi
-密码：Admin123
+![[Pasted image 20260204101307.png]]
 
 ![[Pasted image 20260203194351.png]]
 
