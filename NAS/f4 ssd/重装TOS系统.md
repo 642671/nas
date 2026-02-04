@@ -41,8 +41,14 @@ https://tnas.online/642671
 ![[Pasted image 20260204101307.png]]
 
 ![[Pasted image 20260203194351.png]]
+TNAS的ID是miaoqi
+铁威马账户：qishiyi77@gmail.com
+密码：Mq642671
+远程访问：[[https://tnas.online/miaoqi]]
 
-![[Pasted image 20260203195151.png]]
+
+![[Pasted image 20260204101744.png]]
+
 
 ![[Pasted image 20260203195216.png]]
 https://tnas.online/642671
