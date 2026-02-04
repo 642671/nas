@@ -1,3 +1,4 @@
+https://tnas.online/642671
 # 1. 通过reset按键恢复出厂设置
 1. 连接电源线
 
@@ -32,3 +33,20 @@
 [下载最新的TOS 安装包](https://support.terra-master.com/download/)  
 （安装完成并自动重启后，如果界面出现“创建存储池”或“格式化”字眼，请不要继续并与我们联系）
 ```
+
+
+![[Pasted image 20260203193204.png]]
+![[Pasted image 20260203193221.png]]
+![[Pasted image 20260203193151.png]]
+用户名：qishiyi
+密码：Admin123
+
+![[Pasted image 20260203194351.png]]
+
+![[Pasted image 20260203195151.png]]
+
+![[Pasted image 20260203195216.png]]
+https://tnas.online/642671
+
+
+![[Pasted image 20260203195522.png]]
