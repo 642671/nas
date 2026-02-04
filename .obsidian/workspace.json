@@ -118,7 +118,8 @@
               "title": "问题 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7512645a98d283a",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
     "2026-02-04.md",
     "Q/问题.md",
