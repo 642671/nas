@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q/问题.md",
+                "file": "2026-02-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "问题 的大纲"
+              "title": "2026-02-04 的大纲"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7512645a98d283a",
+  "active": "7688035930c69b09",
   "lastOpenFiles": [
+    "Q/问题.md",
     "Pasted image 20260204154437.png",
     "Pasted image 20260204153634.png",
     "Pasted image 20260204153607.png",
@@ -232,7 +233,6 @@
     "NAS/指令学习.md",
     "NAS/提醒/提示易忘.md",
     "NAS/提醒",
-    "Q/问题.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
     "NAS/磁盘/迁出系统盘.md",
@@ -256,7 +256,6 @@
     "Pasted image 20260204103217.png",
     "欢迎.md",
     "Pasted image 20260204102157.png",
-    "Pasted image 20260204101744.png",
     "2026-02-03.md",
     "NAS/f4 ssd",
     "新建 文本文档.txt",
