@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-04.md",
+                "file": "Q/问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-04 的大纲"
+              "title": "问题 的大纲"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7688035930c69b09",
+  "active": "c7512645a98d283a",
   "lastOpenFiles": [
+    "2026-02-04.md",
     "Q/问题.md",
     "Pasted image 20260204154437.png",
     "Pasted image 20260204153634.png",
@@ -247,7 +248,6 @@
     "NAS/f4 ssd/1.连接.md",
     "NAS/热备盘/热备盘.md",
     "NAS/卷/SSD TRIM.md",
-    "2026-02-04.md",
     "Pasted image 20260204104311.png",
     "NAS/阵列.md",
     "Pasted image 20260204104113.png",
