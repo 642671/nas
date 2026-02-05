@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试/2.5 1.md",
+                "file": "NAS/卷/删卷1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 1"
+              "title": "删卷1"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "28436e908d0fc671",
   "lastOpenFiles": [
+    "测试/测试案例补充.md",
+    "NAS/卷/删卷1.md",
+    "测试/2.5 1.md",
     "Pasted image 20260205153338.png",
     "Pasted image 20260205153325.png",
     "Pasted image 20260205153217.png",
@@ -204,11 +207,8 @@
     "Pasted image 20260205152942.png",
     "Pasted image 20260205152856.png",
     "Pasted image 20260205150533.png",
-    "测试/测试案例补充.md",
-    "测试/2.5 1.md",
     "Pasted image 20260205142052.png",
     "Pasted image 20260205112535.png",
-    "Pasted image 20260202161802.png",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "2026-02-04.md",
     "测试/2.5.md",
