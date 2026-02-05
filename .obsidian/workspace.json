@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "测试/2.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示易忘"
+              "title": "2.5"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2026-02-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,17 +94,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-04.md",
+                "file": "测试/2.5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-04 的大纲"
+              "title": "2.5 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,17 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7688035930c69b09",
+  "active": "28436e908d0fc671",
   "lastOpenFiles": [
     "Q/问题.md",
-    "Pasted image 20260204190359.png",
+    "测试/2.5.md",
+    "测试",
+    "NAS/提醒/提示易忘.md",
     "2026-02-04.md",
+    "Pasted image 20260204190359.png",
     "Pasted image 20260204154437.png",
     "Pasted image 20260204153634.png",
     "Pasted image 20260204153607.png",
     "Pasted image 20260204135431.png",
     "NAS/指令学习.md",
-    "NAS/提醒/提示易忘.md",
     "NAS/提醒",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
@@ -254,7 +254,6 @@
     "NAS/磁盘",
     "NAS/Hyper Cache",
     "NAS/热备盘",
-    "NAS/RAID",
-    "NAS"
+    "NAS/RAID"
   ]
 }
