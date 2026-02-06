@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/卷/删卷1.md",
+                "file": "NAS/f4 ssd/重装TOS系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "删卷1"
+              "title": "重装TOS系统"
             }
           }
         ]
@@ -196,7 +196,9 @@
   },
   "active": "28436e908d0fc671",
   "lastOpenFiles": [
+    "NAS/提醒/提示易忘.md",
     "测试/测试案例补充.md",
+    "NAS/卷/TNAS_Volume1_target_is_busy_排查与卸载.md",
     "NAS/卷/删卷1.md",
     "测试/2.5 1.md",
     "Pasted image 20260205153338.png",
@@ -214,7 +216,6 @@
     "测试/2.5.md",
     "Q/问题.md",
     "测试",
-    "NAS/提醒/提示易忘.md",
     "NAS/指令学习.md",
     "NAS/提醒",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
@@ -233,7 +234,6 @@
     "NAS/卷/SSD TRIM.md",
     "NAS/阵列.md",
     "欢迎.md",
-    "2026-02-03.md",
     "NAS/f4 ssd",
     "新建 文本文档.txt",
     "NAS/卷",
