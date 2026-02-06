@@ -25,12 +25,14 @@
             "id": "1aa24d3c63ace2a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "bug/2..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "2."
             }
           }
         ],
@@ -209,6 +211,11 @@
   },
   "active": "1aa24d3c63ace2a0",
   "lastOpenFiles": [
+    "bug/1.容量阈值.md",
+    "bug/2..md",
+    "bug/2..md",
+    "bug",
+    "测试/未命名",
     "NAS/提醒/提示易忘.md",
     "测试/测试案例补充.md",
     "NAS/卷/TNAS_Volume1_target_is_busy_排查与卸载.md",
@@ -244,16 +251,11 @@
     "NAS/f4 ssd/重装TOS系统.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/热备盘/热备盘.md",
-    "NAS/卷/SSD TRIM.md",
-    "NAS/阵列.md",
-    "欢迎.md",
     "NAS/f4 ssd",
     "新建 文本文档.txt",
     "NAS/卷",
     "Q",
     "NAS/磁盘",
-    "NAS/Hyper Cache",
-    "NAS/热备盘",
-    "NAS/RAID"
+    "NAS/Hyper Cache"
   ]
 }
