@@ -80,16 +80,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试/2.5 1.md",
+                "file": "验证/7.0.0420正式版本更新包验证成功.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.5 1 的大纲"
+              "title": "7.0.0420正式版本更新包验证成功 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c42848bbe40c6eb6",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
     "Pasted image 20260208122334.png",
     "Pasted image 20260208122303.png",
