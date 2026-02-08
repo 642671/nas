@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TNAS_Volume1_target_is_busy_排查与卸载.md",
+                "file": "验证/7.0.0420正式版本更新包验证成功.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TNAS_Volume1_target_is_busy_排查与卸载"
+              "title": "7.0.0420正式版本更新包验证成功"
             }
           }
         ]
@@ -196,9 +196,12 @@
   },
   "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/USB设备.md",
+    "NAS/阵列修复——流程图.md",
+    "NAS/热备盘/热备盘.md",
+    "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "Linux_存储命令.md",
-    "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "NAS/f4 ssd/重装TOS系统.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "TNAS_Linux_存储命令_学习程度_测试问卷_含答案.md",
@@ -207,8 +210,6 @@
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/阵列.md",
     "NAS/阵列在线扩容——流程图.md",
-    "NAS/阵列修复——流程图.md",
-    "NAS/USB设备.md",
     "NAS/指令学习.md",
     "bug/02..md",
     "验证",
@@ -236,7 +237,6 @@
     "Q/问题.md",
     "测试",
     "NAS/提醒",
-    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/f4 ssd",
     "新建 文本文档.txt",
     "NAS/卷",
