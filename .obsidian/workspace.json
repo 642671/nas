@@ -80,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/指令学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示易忘 的大纲"
+              "title": "指令学习 的大纲"
             }
           }
         ]
@@ -196,6 +196,12 @@
   },
   "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/USB设备.md",
+    "NAS/指令学习.md",
+    "NAS/RAID/RAID 模式——long.md",
+    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
+    "NAS/RAID/RAID.md",
+    "NAS/提醒/提示易忘.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "Pasted image 20260208135748.png",
     "Pasted image 20260208135405.png",
@@ -208,25 +214,20 @@
     "Pasted image 20260208120739.png",
     "Pasted image 20260208120710.png",
     "NAS/热备盘/热备盘.md",
-    "NAS/USB设备.md",
     "NAS/阵列修复——流程图.md",
     "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "Linux_存储命令.md",
     "NAS/f4 ssd/重装TOS系统.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "TNAS_Linux_存储命令_学习程度_测试问卷_含答案.md",
-    "NAS/RAID/RAID.md",
     "NAS/RAID/TRAID & TRAID+.md",
-    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/阵列.md",
     "NAS/阵列在线扩容——流程图.md",
-    "NAS/指令学习.md",
     "bug/02..md",
     "验证",
     "bug/01.容量阈值.md",
     "bug",
     "测试/未命名",
-    "NAS/提醒/提示易忘.md",
     "测试/测试案例补充.md",
     "NAS/卷/TNAS_Volume1_target_is_busy_排查与卸载.md",
     "NAS/卷/删卷1.md",
