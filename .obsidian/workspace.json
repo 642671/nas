@@ -49,8 +49,7 @@
               "title": "7.0.0420正式版本更新包验证成功"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,20 +222,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48806099802ff2b2",
+  "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/阵列.md",
+    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
+    "NAS/RAID/TRAID & TRAID+.md",
+    "NAS/RAID/RAID.md",
+    "NAS/RAID/RAID 模式——long.md",
     "NAS/提醒/账号.md",
+    "NAS/提醒/提示易忘.md",
     "NAS/提醒/todo.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
-    "NAS/提醒/提示易忘.md",
     "Pasted image 20260209175012.png",
     "Pasted image 20260209175008.png",
     "Pasted image 20260209173200.png",
     "NAS/USB设备.md",
     "NAS/指令学习.md",
-    "NAS/RAID/RAID 模式——long.md",
-    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
-    "NAS/RAID/RAID.md",
     "Pasted image 20260208135748.png",
     "Pasted image 20260208135405.png",
     "Pasted image 20260208122334.png",
@@ -251,8 +252,6 @@
     "NAS/f4 ssd/重装TOS系统.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "TNAS_Linux_存储命令_学习程度_测试问卷_含答案.md",
-    "NAS/RAID/TRAID & TRAID+.md",
-    "NAS/阵列.md",
     "NAS/阵列在线扩容——流程图.md",
     "bug/02..md",
     "验证",
