@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/f4 ssd/1.连接.md",
+                "file": "NAS/热备盘/热备盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.连接"
+              "title": "热备盘"
             }
           }
         ],
@@ -225,6 +225,8 @@
   },
   "active": "1b17b7bfb972a863",
   "lastOpenFiles": [
+    "NAS/f4 ssd/重装TOS系统.md",
+    "NAS/f4 ssd/1.连接.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "NAS/提醒/提示易忘.md",
     "NAS/提醒/账号.md",
@@ -251,7 +253,6 @@
     "NAS/阵列修复——流程图.md",
     "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "Linux_存储命令.md",
-    "NAS/f4 ssd/重装TOS系统.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "TNAS_Linux_存储命令_学习程度_测试问卷_含答案.md",
     "NAS/阵列在线扩容——流程图.md",
@@ -263,7 +264,6 @@
     "测试/测试案例补充.md",
     "NAS/卷/TNAS_Volume1_target_is_busy_排查与卸载.md",
     "NAS/卷/删卷1.md",
-    "测试/2.5 1.md",
     "测试",
     "NAS/提醒",
     "NAS/f4 ssd",
