@@ -49,8 +49,7 @@
               "title": "热备盘"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,14 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b17b7bfb972a863",
+  "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/热备盘/热备盘.md",
     "NAS/f4 ssd/重装TOS系统.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "NAS/提醒/提示易忘.md",
     "NAS/提醒/账号.md",
-    "NAS/热备盘/热备盘.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "NAS/指令学习.md",
     "NAS/提醒/todo.md",
