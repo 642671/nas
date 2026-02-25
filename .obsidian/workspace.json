@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/提醒/账号.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示易忘"
+              "title": "账号"
             }
           },
           {
@@ -224,13 +224,13 @@
   },
   "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/提醒/提示易忘.md",
     "NAS/阵列.md",
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/RAID/TRAID & TRAID+.md",
     "NAS/RAID/RAID.md",
     "NAS/RAID/RAID 模式——long.md",
     "NAS/提醒/账号.md",
-    "NAS/提醒/提示易忘.md",
     "NAS/提醒/todo.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "Pasted image 20260209175012.png",
