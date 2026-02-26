@@ -63,7 +63,8 @@
               "title": "热备盘修复"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c42848bbe40c6eb6",
+  "active": "04dbe82a4a423001",
   "lastOpenFiles": [
-    "NAS/热备盘修复.md",
+    "Pasted image 20260226120758.png",
     "NAS/提醒/账号.md",
+    "NAS/热备盘修复.md",
     "NAS/RAID/TRAID & TRAID+.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "NAS/f4 ssd/重装TOS系统.md",
@@ -275,7 +277,6 @@
     "bug/01.容量阈值.md",
     "bug",
     "测试/未命名",
-    "测试/测试案例补充.md",
     "测试",
     "NAS/提醒",
     "NAS/f4 ssd",
