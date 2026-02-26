@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/热备盘修复.md",
+                "file": "NAS/RAID/TRAID & TRAID+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热备盘修复"
+              "title": "TRAID & TRAID+"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,13 +222,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b17b7bfb972a863",
+  "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
-    "NAS/热备盘/热备盘.md",
-    "NAS/提醒/提示易忘.md",
-    "NAS/提醒/账号.md",
-    "NAS/热备盘修复.md",
+    "NAS/RAID/TRAID & TRAID+.md",
+    "NAS/Hyper Cache/Hyper Cache.md",
     "NAS/f4 ssd/重装TOS系统.md",
+    "NAS/f4 ssd/TOS安装与硬盘分区.md",
+    "NAS/热备盘修复.md",
+    "NAS/提醒/提示易忘.md",
+    "NAS/热备盘/热备盘.md",
+    "NAS/提醒/账号.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
@@ -237,7 +239,6 @@
     "NAS/提醒/todo.md",
     "NAS/阵列.md",
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
-    "NAS/RAID/TRAID & TRAID+.md",
     "NAS/RAID/RAID.md",
     "NAS/RAID/RAID 模式——long.md",
     "Pasted image 20260209175012.png",
@@ -254,7 +255,6 @@
     "NAS/阵列修复——流程图.md",
     "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "Linux_存储命令.md",
-    "NAS/Hyper Cache/Hyper Cache.md",
     "TNAS_Linux_存储命令_学习程度_测试问卷_含答案.md",
     "NAS/阵列在线扩容——流程图.md",
     "bug/02..md",
@@ -263,7 +263,6 @@
     "bug",
     "测试/未命名",
     "测试/测试案例补充.md",
-    "NAS/卷/TNAS_Volume1_target_is_busy_排查与卸载.md",
     "测试",
     "NAS/提醒",
     "NAS/f4 ssd",
