@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,11 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04dbe82a4a423001",
+  "active": "304fe177d059f703",
   "lastOpenFiles": [
-    "Pasted image 20260226120758.png",
     "NAS/提醒/账号.md",
     "NAS/热备盘修复.md",
+    "Pasted image 20260226120758.png",
     "NAS/RAID/TRAID & TRAID+.md",
     "NAS/Hyper Cache/Hyper Cache.md",
     "NAS/f4 ssd/重装TOS系统.md",
@@ -266,7 +266,6 @@
     "Pasted image 20260208122303.png",
     "Pasted image 20260208122036.png",
     "Pasted image 20260208122008.png",
-    "Pasted image 20260208121910.png",
     "NAS/阵列修复——流程图.md",
     "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "Linux_存储命令.md",
