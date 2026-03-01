@@ -165,16 +165,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/指令学习.md",
+                "file": "输入框限制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "指令学习 的大纲"
+              "title": "输入框限制 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -279,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaefc76b0943f643",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
     "NAS/阵列修复——流程图.md",
     "NAS/USB设备.md",
