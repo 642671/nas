@@ -188,7 +188,8 @@
               "title": "输入框限制 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -293,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dd741dff3554b43",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
     "输入框限制.md",
     "Pasted image 20260301121417.png",
