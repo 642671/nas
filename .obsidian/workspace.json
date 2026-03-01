@@ -83,20 +83,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/Hyper Cache/Hyper Cache.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyper Cache"
-            }
-          },
-          {
-            "id": "200f7afd1006a9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "输入框限制.md",
                 "mode": "source",
                 "source": false
@@ -106,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -279,12 +265,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200f7afd1006a9b7",
+  "active": "aaefc76b0943f643",
   "lastOpenFiles": [
-    "Pasted image 20260301114943.png",
-    "输入框限制.md",
-    "NAS/RAID/TRAID & TRAID+.md",
+    "Pasted image 20260301115221.png",
     "NAS/Hyper Cache/Hyper Cache.md",
+    "输入框限制.md",
+    "Pasted image 20260301114943.png",
+    "NAS/RAID/TRAID & TRAID+.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/提醒/账号.md",
     "NAS/提醒/提示易忘.md",
@@ -310,7 +297,6 @@
     "Pasted image 20260208122334.png",
     "Pasted image 20260208122303.png",
     "Pasted image 20260208122036.png",
-    "Pasted image 20260208122008.png",
     "NAS/阵列修复——流程图.md",
     "TNAS_Volume1_target_is_busy_排查与卸载.md",
     "Linux_存储命令.md",
