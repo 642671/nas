@@ -31,3 +31,8 @@ https://www.tapd.cn/tapd_fe/58480755/story/detail/1158480755001004521
 # 二、在DAS中
 ## 1. 将512与4KN磁盘作出区分，带有4KN标记，同时在磁盘展开详情中增加提示。
 ![[Pasted image 20260302151456.png]]
+
+
+## 2. 磁盘过滤
+
+![[Pasted image 20260302152422.png]]
