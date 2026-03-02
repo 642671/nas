@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/存储池/4KN.md",
+                "file": "NAS/输入框限制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4KN"
+              "title": "输入框限制"
             }
           },
           {
@@ -165,20 +165,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/存储池/4KN.md",
+                "file": "NAS/输入框限制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4KN 的大纲"
+              "title": "输入框限制 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 325.5
   },
   "right": {
     "id": "c155ece605099fd5",
@@ -279,8 +280,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244eb53b3ccfdf40",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
+    "NAS/存储池/4KN.md",
     "Pasted image 20260302175319.png",
     "企业微信截图_17724448253872.png",
     "Pasted image 20260302152422.png",
@@ -288,7 +290,6 @@
     "Pasted image 20260302150752.png",
     "Pasted image 20260302145636.png",
     "NAS/未命名.md",
-    "NAS/存储池/4KN.md",
     "NAS/存储池",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "测试/测试案例补充.md",
@@ -301,7 +302,6 @@
     "Pasted image 20260302100953.png",
     "Pasted image 20260301160235.png",
     "Pasted image 20260301160232.png",
-    "Pasted image 20260301155800.png",
     "NAS/热备盘修复.md",
     "NAS/阵列修复——流程图.md",
     "NAS/指令学习.md",
