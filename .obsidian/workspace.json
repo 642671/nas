@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,16 +179,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/USB设备.md",
+                "file": "输入框限制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "USB设备 的大纲"
+              "title": "输入框限制 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -293,8 +294,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dd741dff3554b43",
+  "active": "655e739a56cb2d9e",
   "lastOpenFiles": [
+    "NAS/USB设备.md",
     "Pasted image 20260302100953.png",
     "输入框限制.md",
     "Pasted image 20260301160235.png",
@@ -308,8 +310,6 @@
     "Pasted image 20260301121417.png",
     "Pasted image 20260301121412.png",
     "Pasted image 20260301121008.png",
-    "Pasted image 20260301120937.png",
-    "NAS/USB设备.md",
     "NAS/指令学习.md",
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/阵列.md",
