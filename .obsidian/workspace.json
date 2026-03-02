@@ -188,8 +188,7 @@
               "title": "输入框限制 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -294,8 +293,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "655e739a56cb2d9e",
+  "active": "3b167469f082f891",
   "lastOpenFiles": [
+    "Pasted image 20260302143131.png",
     "NAS/USB设备.md",
     "Pasted image 20260302100953.png",
     "输入框限制.md",
