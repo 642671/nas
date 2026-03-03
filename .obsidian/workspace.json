@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/存储池/4KN_TOS6.md",
+                "file": "NAS/输入框限制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4KN_TOS6 的大纲"
+              "title": "输入框限制 的大纲"
             }
           }
         ]
@@ -279,10 +279,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dd741dff3554b43",
+  "active": "244eb53b3ccfdf40",
   "lastOpenFiles": [
-    "NAS/存储池/4KN.md",
     "NAS/存储池/4KN_TOS6.md",
+    "NAS/存储池/4KN.md",
     "NAS/USB设备.md",
     "验证/用户名.md",
     "NAS/输入框限制.md",
