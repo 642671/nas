@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "ee43886ae5a6f606",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
-            }
-          },
-          {
             "id": "3dd741dff3554b43",
             "type": "leaf",
             "state": {
@@ -117,8 +105,7 @@
               "title": "4KN_TOS6"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,8 +278,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee43886ae5a6f606",
+  "active": "c42848bbe40c6eb6",
   "lastOpenFiles": [
+    "NAS/存储池/4KN_TOS6.md",
     "NAS/提醒/账号.md",
     "NAS/提醒/提示易忘.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
@@ -304,7 +292,6 @@
     "NAS/阵列.md",
     "NAS/存储池/4KN.md",
     "NAS/输入框限制.md",
-    "NAS/存储池/4KN_TOS6.md",
     "NAS/USB设备.md",
     "Pasted image 20260302175319.png",
     "企业微信截图_17724448253872.png",
