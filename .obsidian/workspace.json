@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/账号.md",
+                "file": "NAS/存储池/4KN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "账号"
+              "title": "4KN"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "4KN_TOS6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,16 +165,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
+                "file": "NAS/提醒/提示易忘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "S.M.A.R.T.硬盘健康监控详解 的大纲"
+              "title": "提示易忘 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -278,10 +280,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c42848bbe40c6eb6",
+  "active": "304fe177d059f703",
   "lastOpenFiles": [
-    "NAS/存储池/4KN_TOS6.md",
+    "Pasted image 20260305182921.png",
+    "Pasted image 20260305182904.png",
+    "NAS/存储池/4KN.md",
     "NAS/提醒/账号.md",
+    "NAS/存储池/4KN_TOS6.md",
     "NAS/提醒/提示易忘.md",
     "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
@@ -290,7 +295,6 @@
     "验证/用户名.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "NAS/阵列.md",
-    "NAS/存储池/4KN.md",
     "NAS/输入框限制.md",
     "NAS/USB设备.md",
     "Pasted image 20260302175319.png",
@@ -308,7 +312,6 @@
     "Pasted image 20260302143131.png",
     "Pasted image 20260302100953.png",
     "Pasted image 20260301160235.png",
-    "Pasted image 20260301160232.png",
     "NAS/热备盘修复.md",
     "NAS/阵列修复——流程图.md",
     "NAS/指令学习.md",
@@ -317,7 +320,6 @@
     "NAS/Hyper Cache/Hyper Cache.md",
     "NAS/RAID/TRAID & TRAID+.md",
     "NAS/f4 ssd/1.连接.md",
-    "NAS/RAID/RAID.md",
     "验证",
     "bug",
     "测试/未命名",
