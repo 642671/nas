@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/输入框限制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示易忘"
+              "title": "输入框限制"
             }
           },
           {
@@ -165,17 +165,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/输入框限制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示易忘 的大纲"
+              "title": "输入框限制 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,16 +281,20 @@
   },
   "active": "304fe177d059f703",
   "lastOpenFiles": [
+    "NAS/f4 ssd/openTOS 2026.02.05.md",
+    "NAS/f4 ssd/1.连接.md",
+    "NAS/f4 ssd/TOS安装与硬盘分区.md",
+    "NAS/f4 ssd/重装TOS系统.md",
+    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
+    "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
+    "NAS/磁盘/迁出系统盘.md",
+    "NAS/磁盘/新增系统盘.md",
+    "NAS/存储池/4KN_TOS6.md",
+    "NAS/提醒/提示易忘.md",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
     "NAS/存储池/4KN.md",
     "NAS/提醒/账号.md",
-    "NAS/存储池/4KN_TOS6.md",
-    "NAS/提醒/提示易忘.md",
-    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
-    "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
-    "NAS/磁盘/新增系统盘.md",
-    "NAS/磁盘/迁出系统盘.md",
     "验证/用户名.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "NAS/阵列.md",
@@ -311,15 +314,11 @@
     "未命名",
     "Pasted image 20260302143131.png",
     "Pasted image 20260302100953.png",
-    "Pasted image 20260301160235.png",
     "NAS/热备盘修复.md",
     "NAS/阵列修复——流程图.md",
     "NAS/指令学习.md",
     "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
     "NAS/阵列在线扩容——流程图.md",
-    "NAS/Hyper Cache/Hyper Cache.md",
-    "NAS/RAID/TRAID & TRAID+.md",
-    "NAS/f4 ssd/1.连接.md",
     "验证",
     "bug",
     "测试/未命名",
