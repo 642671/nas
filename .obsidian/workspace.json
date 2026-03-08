@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/RAID/RAID.md",
+                "file": "NAS/提醒/提示易忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID"
+              "title": "提示易忘"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/提醒/账号.md",
+                "file": "NAS/提醒/提示易忘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "账号 的大纲"
+              "title": "提示易忘 的大纲"
             }
           }
         ]
@@ -279,9 +279,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "304fe177d059f703",
+  "active": "92f56ee432df27cb",
   "lastOpenFiles": [
+    "Pasted image 20260308180611.png",
+    "NAS/RAID/RAID 模式——long.md",
     "NAS/输入框限制.md",
+    "NAS/未命名.md",
+    "NAS/RAID/RAID.md",
+    "NAS/提醒/账号.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/f4 ssd/TOS安装与硬盘分区.md",
@@ -295,7 +300,6 @@
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
     "NAS/存储池/4KN.md",
-    "NAS/提醒/账号.md",
     "验证/用户名.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "NAS/阵列.md",
@@ -306,7 +310,6 @@
     "Pasted image 20260302151456.png",
     "Pasted image 20260302150752.png",
     "Pasted image 20260302145636.png",
-    "NAS/未命名.md",
     "NAS/存储池",
     "测试/测试案例补充.md",
     "测试/2.5 1.md",
@@ -316,9 +319,6 @@
     "Pasted image 20260302100953.png",
     "NAS/热备盘修复.md",
     "NAS/阵列修复——流程图.md",
-    "NAS/指令学习.md",
-    "NAS/RAID/RAID可用空间冗余空间未使用空间计算.md",
-    "NAS/阵列在线扩容——流程图.md",
     "验证",
     "bug",
     "测试/未命名",
