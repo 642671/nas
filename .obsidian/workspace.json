@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "1b17b7bfb972a863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAS/RAID/TRAID & TRAID+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TRAID & TRAID+"
-            }
-          },
-          {
             "id": "04dbe82a4a423001",
             "type": "leaf",
             "state": {
@@ -83,26 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
+                "file": "NAS/虚拟磁盘/虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S.M.A.R.T.硬盘健康监控详解"
-            }
-          },
-          {
-            "id": "3dd741dff3554b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAS/存储池/4KN_TOS6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4KN_TOS6"
+              "title": "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等"
             }
           }
         ],
@@ -165,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/热备盘/热备盘.md",
+                "file": "NAS/虚拟磁盘/虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "热备盘 的大纲"
+              "title": "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等 的大纲"
             }
           }
         ]
@@ -279,9 +251,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92f56ee432df27cb",
+  "active": "244eb53b3ccfdf40",
   "lastOpenFiles": [
+    "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.gif",
+    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/存储池/4KN_TOS6.md",
+    "NAS/虚拟磁盘/虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.md",
+    "NAS/RAID/TRAID & TRAID+.md",
+    "未命名.md",
+    "NAS/提醒/账号.md",
+    "NAS/虚拟磁盘",
+    "NAS/热备盘/热备盘.md",
     "NAS/提醒/提示易忘.md",
     "NAS/热备盘修复.md",
     "NAS/Hyper Cache/Hyper Cache.md",
@@ -290,12 +270,10 @@
     "NAS/输入框限制.md",
     "NAS/未命名.md",
     "NAS/RAID/RAID.md",
-    "NAS/提醒/账号.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
     "NAS/f4 ssd/1.连接.md",
     "NAS/f4 ssd/TOS安装与硬盘分区.md",
     "NAS/f4 ssd/重装TOS系统.md",
-    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
     "NAS/磁盘/迁出系统盘.md",
     "NAS/磁盘/新增系统盘.md",
@@ -305,7 +283,6 @@
     "验证/用户名.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "NAS/阵列.md",
-    "NAS/USB设备.md",
     "Pasted image 20260302175319.png",
     "企业微信截图_17724448253872.png",
     "Pasted image 20260302152422.png",
@@ -313,19 +290,14 @@
     "Pasted image 20260302150752.png",
     "Pasted image 20260302145636.png",
     "NAS/存储池",
-    "测试/测试案例补充.md",
-    "测试/2.5 1.md",
-    "测试/2.5.md",
     "未命名",
     "Pasted image 20260302143131.png",
-    "NAS/阵列修复——流程图.md",
     "验证",
     "bug",
     "测试/未命名",
     "测试",
     "NAS/提醒",
     "NAS/f4 ssd",
-    "新建 文本文档.txt",
-    "NAS/卷"
+    "新建 文本文档.txt"
   ]
 }
