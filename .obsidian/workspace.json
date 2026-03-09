@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/热备盘/热备盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示易忘"
+              "title": "热备盘"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/提醒/提示易忘.md",
+                "file": "NAS/热备盘/热备盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示易忘 的大纲"
+              "title": "热备盘 的大纲"
             }
           }
         ]
@@ -281,6 +281,10 @@
   },
   "active": "92f56ee432df27cb",
   "lastOpenFiles": [
+    "NAS/存储池/4KN_TOS6.md",
+    "NAS/提醒/提示易忘.md",
+    "NAS/热备盘修复.md",
+    "NAS/Hyper Cache/Hyper Cache.md",
     "Pasted image 20260308180611.png",
     "NAS/RAID/RAID 模式——long.md",
     "NAS/输入框限制.md",
@@ -295,8 +299,6 @@
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
     "NAS/磁盘/迁出系统盘.md",
     "NAS/磁盘/新增系统盘.md",
-    "NAS/存储池/4KN_TOS6.md",
-    "NAS/提醒/提示易忘.md",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
     "NAS/存储池/4KN.md",
@@ -316,8 +318,6 @@
     "测试/2.5.md",
     "未命名",
     "Pasted image 20260302143131.png",
-    "Pasted image 20260302100953.png",
-    "NAS/热备盘修复.md",
     "NAS/阵列修复——流程图.md",
     "验证",
     "bug",
