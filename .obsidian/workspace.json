@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/Hyper Cache/Hyper Cache.md",
+                "file": "NAS/磁盘/安全擦除与抹除磁盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyper Cache"
+              "title": "安全擦除与抹除磁盘"
             }
           }
         ],
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAS/Hyper Cache/Hyper Cache.md",
+                "file": "NAS/磁盘/安全擦除与抹除磁盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hyper Cache 的大纲"
+              "title": "安全擦除与抹除磁盘 的大纲"
             }
           }
         ]
@@ -253,6 +253,8 @@
   },
   "active": "244eb53b3ccfdf40",
   "lastOpenFiles": [
+    "NAS/Hyper Cache/Hyper Cache.md",
+    "NAS/磁盘/安全擦除与抹除磁盘.md",
     "NAS/阵列.md",
     "NAS/阵列在线扩容——流程图.md",
     "NAS/阵列修复——流程图.md",
@@ -276,12 +278,10 @@
     "NAS/虚拟磁盘",
     "NAS/热备盘/热备盘.md",
     "NAS/提醒/提示易忘.md",
-    "NAS/Hyper Cache/Hyper Cache.md",
     "Pasted image 20260308180611.png",
     "NAS/RAID/RAID 模式——long.md",
     "NAS/RAID/RAID.md",
     "NAS/f4 ssd/openTOS 2026.02.05.md",
-    "NAS/f4 ssd/1.连接.md",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
     "Pasted image 20260302175319.png",
