@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/输入框限制.md",
+                "file": "NAS/USB设备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "输入框限制"
+              "title": "USB设备"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,8 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244eb53b3ccfdf40",
+  "active": "304fe177d059f703",
   "lastOpenFiles": [
+    "NAS/USB设备.md",
+    "NAS/输入框限制.md",
     "NAS/卷/SSD TRIM.md",
     "NAS/磁盘/迁出系统盘.md",
     "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
@@ -264,10 +266,8 @@
     "NAS/阵列.md",
     "NAS/阵列在线扩容——流程图.md",
     "NAS/阵列修复——流程图.md",
-    "NAS/USB设备.md",
     "NAS/热备盘修复.md",
     "NAS/未命名.md",
-    "NAS/输入框限制.md",
     "NAS/指令学习.md",
     "NAS/磁盘/新增系统盘.md",
     "验证/用户名.md",
