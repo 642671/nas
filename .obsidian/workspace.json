@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/提醒/账号.md",
+                "file": "NAS/提醒/提示易忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "账号"
+              "title": "提示易忘"
             }
           },
           {
@@ -253,6 +253,8 @@
   },
   "active": "304fe177d059f703",
   "lastOpenFiles": [
+    "企业微信截图_17733068574375.png",
+    "NAS/提醒/账号.md",
     "NAS/USB设备.md",
     "NAS/输入框限制.md",
     "NAS/卷/SSD TRIM.md",
@@ -276,12 +278,10 @@
     "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.gif",
     "NAS/存储池/4KN_TOS6.md",
     "未命名.md",
-    "NAS/提醒/账号.md",
     "NAS/虚拟磁盘",
     "NAS/热备盘/热备盘.md",
     "NAS/提醒/提示易忘.md",
     "Pasted image 20260308180611.png",
-    "NAS/RAID/RAID.md",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
     "Pasted image 20260302175319.png",
