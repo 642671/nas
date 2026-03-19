@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/f4 ssd/1.连接.md",
-                "mode": "preview",
+                "file": "NAS/提醒/提示易忘.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.连接"
+              "title": "提示易忘"
             }
           },
           {
@@ -251,8 +251,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b167469f082f891",
+  "active": "304fe177d059f703",
   "lastOpenFiles": [
+    "NAS/f4 ssd/1.连接.md",
     "NAS/提醒/提示易忘.md",
     "验证/用户名.md",
     "NAS/Hyper Cache/Hyper Cache.md",
@@ -281,7 +282,6 @@
     "NAS/存储池/4KN_TOS6.md",
     "未命名.md",
     "NAS/虚拟磁盘",
-    "NAS/热备盘/热备盘.md",
     "Pasted image 20260308180611.png",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
