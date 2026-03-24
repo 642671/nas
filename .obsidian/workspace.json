@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "304fe177d059f703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAS/提醒/提示易忘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "提示易忘"
-            }
-          },
-          {
             "id": "04dbe82a4a423001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAS/热备盘修复.md",
+                "file": "验证/用户名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热备盘修复"
+              "title": "用户名"
             }
           },
           {
@@ -251,37 +237,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "304fe177d059f703",
+  "active": "04dbe82a4a423001",
   "lastOpenFiles": [
+    "验证/7.0.0420正式版本更新包验证成功.md",
+    "Q/NAS/热备盘修复.md",
+    "未命名.base",
+    "Q/NAS/提醒/提示易忘.md",
+    "未命名",
     "Pasted image 20260319111420.png",
-    "NAS/f4 ssd/1.连接.md",
-    "NAS/提醒/提示易忘.md",
+    "Q/NAS/f4 ssd/1.连接.md",
     "验证/用户名.md",
-    "NAS/Hyper Cache/Hyper Cache.md",
-    "NAS/磁盘/NAS_安全擦除_抹除磁盘_前后对比验证.md",
+    "Q/NAS/Hyper Cache/Hyper Cache.md",
+    "Q/NAS/磁盘/NAS_安全擦除_抹除磁盘_前后对比验证.md",
     "企业微信截图_17733068574375.png",
-    "NAS/提醒/账号.md",
-    "NAS/USB设备.md",
-    "NAS/输入框限制.md",
-    "NAS/卷/SSD TRIM.md",
-    "NAS/磁盘/迁出系统盘.md",
-    "NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
-    "NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
-    "NAS/磁盘/安全擦除与抹除磁盘.md",
-    "NAS/RAID/RAID 模式——long.md",
-    "NAS/RAID/TRAID & TRAID+.md",
-    "NAS/阵列.md",
-    "NAS/阵列在线扩容——流程图.md",
-    "NAS/阵列修复——流程图.md",
-    "NAS/热备盘修复.md",
-    "NAS/未命名.md",
+    "Q/NAS/提醒/账号.md",
+    "Q/NAS/USB设备.md",
+    "Q/NAS/输入框限制.md",
+    "Q/NAS/卷/SSD TRIM.md",
+    "Q/NAS/磁盘/迁出系统盘.md",
+    "Q/NAS/磁盘/可用空间、冗余空间 和 未使用空间.md",
+    "Q/NAS/磁盘/S.M.A.R.T.硬盘健康监控详解.md",
+    "Q/NAS/磁盘/安全擦除与抹除磁盘.md",
+    "Q/NAS/RAID/RAID 模式——long.md",
+    "Q/NAS/RAID/TRAID & TRAID+.md",
+    "Q/NAS/阵列.md",
+    "Q/NAS/阵列在线扩容——流程图.md",
+    "Q/NAS/阵列修复——流程图.md",
+    "Q/NAS/未命名.md",
     "NAS/指令学习.md",
-    "NAS/磁盘/新增系统盘.md",
-    "NAS/存储池/4KN.md",
-    "NAS/虚拟磁盘/虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.md",
+    "Q/NAS/磁盘/新增系统盘.md",
+    "Q/NAS/存储池/4KN.md",
+    "Q/NAS/虚拟磁盘/虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.md",
     "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.gif",
-    "NAS/存储池/4KN_TOS6.md",
-    "NAS/虚拟磁盘",
+    "Q/NAS/存储池/4KN_TOS6.md",
+    "Q/NAS/虚拟磁盘",
     "Pasted image 20260308180611.png",
     "Pasted image 20260305182921.png",
     "Pasted image 20260305182904.png",
@@ -289,15 +278,12 @@
     "企业微信截图_17724448253872.png",
     "Pasted image 20260302152422.png",
     "Pasted image 20260302151456.png",
-    "Pasted image 20260302150752.png",
-    "NAS/存储池",
-    "未命名",
+    "Q/NAS/存储池",
     "验证",
     "bug",
     "测试/未命名",
     "测试",
-    "NAS/提醒",
-    "NAS/f4 ssd",
-    "新建 文本文档.txt"
+    "Q/NAS/提醒",
+    "Q/NAS/f4 ssd"
   ]
 }
