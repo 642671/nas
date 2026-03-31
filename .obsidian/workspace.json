@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q/NAS/提醒/提示易忘.md",
-                "mode": "preview",
+                "file": "验证/用户名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示易忘"
+              "title": "用户名"
             }
           },
           {
@@ -239,12 +239,12 @@
   },
   "active": "04dbe82a4a423001",
   "lastOpenFiles": [
+    "Q/NAS/提醒/提示易忘.md",
     "Q/问题.md",
     "验证/用户名.md",
     "验证/7.0.0420正式版本更新包验证成功.md",
     "Q/NAS/热备盘修复.md",
     "未命名.base",
-    "Q/NAS/提醒/提示易忘.md",
     "未命名",
     "Pasted image 20260319111420.png",
     "Q/NAS/f4 ssd/1.连接.md",
