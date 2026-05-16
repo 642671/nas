@@ -25,12 +25,14 @@
             "id": "04dbe82a4a423001",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260319111420.png"
+                "file": "Q/NAS/提醒/账号.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260319111420"
+              "icon": "lucide-file",
+              "title": "账号"
             }
           },
           {
@@ -237,6 +239,9 @@
   },
   "active": "04dbe82a4a423001",
   "lastOpenFiles": [
+    "Q/NAS/提醒/todo.md",
+    "Q/NAS/提醒/提示易忘.md",
+    "Pasted image 20260319111420.png",
     "企业微信截图_17733068574375.png",
     "虚拟磁盘需要将服务端的同样的功能打开后，在存储管理的虚拟磁盘模块才可以勾选成功等.gif",
     "Q/NAS/阵列在线扩容——流程图.md",
@@ -244,7 +249,6 @@
     "Q/NAS/热备盘修复.md",
     "Q/NAS/RAID/RAID.md",
     "Q/NAS/提醒/账号.md",
-    "Q/NAS/提醒/提示易忘.md",
     "Q/NAS/f4 ssd/重装TOS系统.md",
     "Q/NAS/f4 ssd/TOS安装与硬盘分区.md",
     "Q/NAS/f4 ssd/1.连接.md",
@@ -256,7 +260,6 @@
     "验证/7.0.0420正式版本更新包验证成功.md",
     "未命名.base",
     "未命名",
-    "Pasted image 20260319111420.png",
     "Q/NAS/Hyper Cache/Hyper Cache.md",
     "Q/NAS/磁盘/NAS_安全擦除_抹除磁盘_前后对比验证.md",
     "Q/NAS/输入框限制.md",
